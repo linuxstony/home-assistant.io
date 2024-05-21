@@ -137,6 +137,7 @@ You can also use the `nissan_leaf.update` service to request an on-demand update
 - The Nissan servers have a history of being unstable, therefore please confirm that the official Nissan Leaf app/website is working correctly before reporting bugs.
 - In the UK the cut-off for Carwings was the 16 plate 24 kWh and the 65 plate 30 kWh. Cars after this have NissanConnect.
 - As of 25 July 2019 the MyCarFinder API is not longer available, hence the device_tracker support has been removed.
+- As of 01.04.2024 eNV200 and Leafs up to 2016 are not supported by the Nissan-API - you will not be able to use this integration. As the service was canceled by Nissan there is sadly nothing we can do about it. 
 
 Please report bugs using the following logger configuration.
 
